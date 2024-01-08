@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Study-Notation-Website/static/css/main.9465408a.css",
+    "main.js": "/Study-Notation-Website/static/js/main.83c087c0.js",
+    "static/media/signup.png": "/Study-Notation-Website/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/Study-Notation-Website/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/Study-Notation-Website/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/Study-Notation-Website/static/media/Logo.0d90853fa1468dbe2d8d82c0ea06b8b1.svg",
+    "index.html": "/Study-Notation-Website/index.html",
+    "main.9465408a.css.map": "/Study-Notation-Website/static/css/main.9465408a.css.map",
+    "main.83c087c0.js.map": "/Study-Notation-Website/static/js/main.83c087c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9465408a.css",
+    "static/js/main.83c087c0.js"
+  ]
+}
